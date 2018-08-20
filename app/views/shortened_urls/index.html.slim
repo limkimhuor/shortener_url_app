@@ -1,0 +1,5 @@
+h2 Shorten URL
+= form_for @url do |f|
+  = error_message f.object, :original_url
+  = f.text_field :original_url, size: '90%'
+  = f.submit :submit

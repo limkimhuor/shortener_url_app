@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://www.railscarma.com/blog/technical-articles/simple-way-shorten-long-urls-rails/
